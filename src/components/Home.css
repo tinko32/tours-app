@@ -1,0 +1,53 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  
+  
+  #underline {
+  width: 6rem;
+  height: .25rem;
+  background: #49a6e9;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+  
+  
+  .container-small {
+    display:flexbox ;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  background: #fff;
+  border-radius: .25rem;
+  padding: 1.5rem 2rem;
+  box-shadow: 0 5px 15px rgba(0,0,0,.4);
+  justify-content: space-between;
+  justify-content: flex-center;
+  flex-direction: row , row-reverse , column , column-reverse;
+  
+  }
+  
+  #img1 {
+    display:flexbox ;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    background: #fff;
+    border-radius: .25rem;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,.4);
+    justify-content: space-between;
+    justify-content: flex-center;
+  
+  }
+  
+  

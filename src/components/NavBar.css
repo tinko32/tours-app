@@ -1,0 +1,22 @@
+.navBar {
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    background-color: rgb(177, 212, 243);
+    align-items: center;
+    min-height: 8vh;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  list-style: none;
+}
+
+#img33 {
+  width:201px;
+  height: 59px;
+}
